@@ -1,7 +1,7 @@
 {
   "name": "my-comps-docs",
   "version": "1.0.4",
-  "description": "vitepress使用方法练习",
+  "description": "基于vitepress创建的组件库演示文档",
   "main": "index.js",
   "scripts": {
     "dev": "vitepress dev docs --port=9000",
